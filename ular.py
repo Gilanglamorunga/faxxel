@@ -1,4 +1,4 @@
-import turtle
+import turtl
 import random
 import time
 
